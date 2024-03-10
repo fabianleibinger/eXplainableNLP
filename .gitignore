@@ -1,0 +1,7 @@
+**/node_modules
+**/venv
+__pycache__
+backend/dashboard
+backend/xnlp/models_and_explanations/models/model_loader/nlp_models
+backend/xnlp/models_and_explanations/models/model_loader/nlp_tokenizers
+.idea

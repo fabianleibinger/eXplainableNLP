@@ -1,0 +1,34 @@
+#welcome-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 0 15%;
+}
+
+.welcome-header {
+    text-align: center;
+    padding: 20px 50px;
+}
+
+.welcome-header .get-started-btn {
+    margin-top: 20px;
+    padding: 15px 30px;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.welcome-text {
+    margin-bottom: 30px !important;
+    white-space: pre-line;
+}
+
+#welcome-image {
+    width: 55%;
+    height: 40%;
+    display: block;
+    margin: 0 auto;
+}
+
+
